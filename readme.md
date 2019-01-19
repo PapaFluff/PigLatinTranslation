@@ -1,1 +1,1 @@
-The first project of many to come!
+This program was created using VS Code with python.
